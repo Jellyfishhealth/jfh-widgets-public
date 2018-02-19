@@ -28,6 +28,7 @@
 - **data-google-api-key (Required for map and distance calculation)**
   - Description: Adds the Google Maps API key
   - Type: **String**
+  - Required APIs: Google Maps Distance Matrix API, Google Maps Geocoding API, Google Maps JavaScript API
 
 - **data-embed-css**
   - Description: Enables/Disables the css from being embedded in the page
