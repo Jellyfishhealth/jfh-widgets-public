@@ -4,6 +4,8 @@
 3. Insert the Org ID in the "data-org-id" attribute in the script tag
 4. Include the `<div>` on the page for the widget you'd like to display
 
+**For questions about implementation or to report bugs contact support@jellyfishhealth.com**
+
 ### Embed Script
 ```html
 <script data-org-id="{YOUR ORG ID}" id='jfh-widgets' type='text/javascript'>
