@@ -1,9 +1,10 @@
 ## How To Use
-1. Insert the embed script somewhere in the html before the opening `<body>` tag
-2. Insert the Org ID in the "data-org-id" attribute in the script tag
-3. Include a `<div>` on the page for the widget you'd like to display
+1. Sign up for Google Maps Distance Matrix API, Google Maps Geocoding API, and Google Maps JavaScript API 
+2. Insert the embed script somewhere within the document `<head>` before the opening `<body>` tag
+3. Insert the Org ID in the "data-org-id" attribute in the script tag
+4. Include the `<div>` on the page for the widget you'd like to display
 
-
+### Embed Script
 ```html
 <script data-org-id="{YOUR ORG ID}" id='jfh-widgets' type='text/javascript'>
   (function() {
