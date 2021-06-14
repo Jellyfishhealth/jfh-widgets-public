@@ -65,6 +65,7 @@ To test with different environments you can set the service urls to the environm
   - Description: Sets the get in line button url
   - Type: **String**
   - Default: **Production URL**
+  - Note: Can be used to point to self scheduling
 
 - **data-access-service-url**
   - Description: Sets the access service url
